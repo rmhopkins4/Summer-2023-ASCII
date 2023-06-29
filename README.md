@@ -7,3 +7,12 @@ There will be other places wheer I place work from this summer! This is just a p
 
 ## ASCII
 
+Convert image to ASCII art!
+
+## GOLA
+
+Simple Conway's Game of Life
+
+## Markov Sentence
+
+|Work in progress|
