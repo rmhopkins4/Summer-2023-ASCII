@@ -5,14 +5,16 @@ Goal for this summer is to learn Python to prepare myself for research in the fa
 These projects are learning opportunities for me in a language I am not the most familiar with.
 There will be other places wheer I place work from this summer! This is just a place for small, miscellaneous projects.
 
-## ASCII
+## ASCII2.py
 
 Convert image to ASCII art!
+- Be sure to update file path in ascii2.py
 
-## GOLA
+## GOLA.py
 
 Simple Conway's Game of Life
 
-## Markov Sentence
+## MarkovSentence.py
 
 |Work in progress|
+|----------------|
