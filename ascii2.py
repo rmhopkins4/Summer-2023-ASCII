@@ -47,4 +47,4 @@ def convert_image_to_ascii(file_path, inverted=False, width=100):
 
 
 # Example usage
-convert_image_to_ascii("C:/Users/rmhop/Desktop/blue.jpg", inverted=False, width=100)
+convert_image_to_ascii("INSERT_FILE_PATHjpg", inverted=False, width=100)
