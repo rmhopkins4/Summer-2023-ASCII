@@ -4,3 +4,6 @@
 Goal for this summer is to learn Python to prepare myself for research in the fall.
 These projects are learning opportunities for me in a language I am not the most familiar with.
 There will be other places wheer I place work from this summer! This is just a place for small, miscellaneous projects.
+
+## ASCII
+
