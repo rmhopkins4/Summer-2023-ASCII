@@ -6,16 +6,16 @@ There will be other places where I place work from this summer! This is just a p
 ## Larger projects (_not_ contained in this repo)
 
 ### [Minimal Naming Game](https://github.com/rmhopkins4/Minimal-Naming-Game)
-*See README.md in linked repo*
+<sup>*See README.md in linked repo*</sup>
 
 ### [Melvin Voice Synthesizer](https://github.com/rmhopkins4/Melvin-Voice-Synthesizer)
-*See README.md in linked repo*
+<sup>*See README.md in linked repo*</sup>
 
 ### [UMD.io-Console](https://github.com/rmhopkins4/UMD.io-Console)
-*See README.md in linked repo*
+<sup>*See README.md in linked repo*</sup>
 
 ### [Lexicon Modeling Simulator](https://github.com/rmhopkins4/Lexicon-Modeling-Simulator)
-*See README.md in linked repo*
+<sup>*See README.md in linked repo*</sup>
 
 ***
 
